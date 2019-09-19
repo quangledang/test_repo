@@ -1,2 +1,2 @@
-# test_repo
-Used for git intermediate trainning course
+This is a demonstraton repository for Git Intermediate Techniques.
+
